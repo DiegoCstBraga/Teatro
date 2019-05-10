@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1550237991 source:c:\users\lab6\documents\dbe\teatro\main.cpp
+	<iostream>
+	"ingresso.h"
+	<stdbool.h>
+
+1550238050 c:\users\lab6\documents\dbe\teatro\ingresso.h
+	"stdlib.h"
+	<stdbool.h>
+
+1550843830 source:c:\users\lab6\documents\del\teatro-20190222t105428z-001\teatro\main.cpp
+	<iostream>
+	"ingresso.h"
+	<stdbool.h>
+
+1550843950 c:\users\lab6\documents\del\teatro-20190222t105428z-001\teatro\ingresso.h
+	"stdlib.h"
+	<stdbool.h>
+
+1550826398 source:c:\users\diego\downloads\teatro-20190223t042006z-001\teatro\main.cpp
+	<iostream>
+	"ingresso.h"
+	<stdbool.h>
+
+1550826396 c:\users\diego\downloads\teatro-20190223t042006z-001\teatro\ingresso.h
+	"stdlib.h"
+	<stdbool.h>
+
+1551404993 source:c:\users\diego\downloads\teatro - diego c. braga-20190301t001530z-001\teatro - diego c. braga\main.cpp
+	<iostream>
+	"ingresso.h"
+	<stdbool.h>
+	"windows.h"
+
+1551361620 c:\users\diego\downloads\teatro - diego c. braga-20190301t001530z-001\teatro - diego c. braga\ingresso.h
+	"stdlib.h"
+	<stdbool.h>
+
